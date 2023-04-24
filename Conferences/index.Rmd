@@ -1,0 +1,25 @@
+---
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## [About Me](https://magnoliamorelli.github.io) | [Research](https://magnoliamorelli.github.io/Research) | [Curriculum Vitae](https://magnoliamorelli.github.io/Curriculum_Vitae) | [Conferences](https://magnoliamorelli.github.io/Conferences) | [Assignments](https://magnoliamorelli.github.io/Assignments)
+
+<p style="font-family: times; font-size:20pt">
+**MSA 2022**
+</p>
+<p style="font-family: times; font-size:15pt">
+**Abstract**
+</p>
+<p style="font-family: times; font-size:15pt">
+Both directly and indirectly, fungi play a key role in carbon cycling, ecosystem diversity, plant nutrition, and plant productivity. A key limiting factor in building and maintaining local fungal diversity is distribution efficacy.  It is known that large mammals, such as ungulates, participate in mycophagy, but it is unknown how important they are for fungal dispersal via directly eating fungi or incidentally consuming it via herbivory. We are investigating the distribution and viability of fungal spores by ungulate vectors. The dung of three distinct ungulates (White-tailed deer, Bighorn sheep, and Eastern elk) is being collected from diverse sites including Northern Utah, Capitol Reef National Park, and the Ozark Mountains so far. Dung is prepared, cultured, and analyzed for viable fungal propagules in a variety of media before identification via Sanger sequencing. Sterilized dung placed in situ serves as sterile controls to remove the influence of other local dispersal mechanisms. Future expansion of this project will incorporate other mammal groups such as primates and their relationship with viable fungal dispersal.
+</p>
+```{r, echo=FALSE}
+knitr::include_graphics("../media/pp.png")
+```
+
+<p style="font-family: times; font-size:15pt">
+After returning home from MSA 2022, I have had time to reflect on my experiences there. I can honestly say that this conference has changed the way that I look at mycology. I attended countless talks and learned about topics that I never knew existed. This allowed me to see the broad range of passion and drive that the mycology community holds. I made friends that I hope to see throughout the years at different conferences. I made many connections for future collaborations. And most importantly I learned more about myself and the wonder that I hold within the mushroomsphere. 
+</p>
+

@@ -1,0 +1,9 @@
+---
+output: html_document
+---
+## [About Me](https://magnoliamorelli.github.io) | [Research](https://magnoliamorelli.github.io/Research) | [Curriculum Vitae](https://magnoliamorelli.github.io/Curriculum_Vitae) | [Conferences](https://magnoliamorelli.github.io/Conferences) | [Assignments](https://magnoliamorelli.github.io/Assignments)
+
+```{r, echo=FALSE, out.width="100%", out.height= "1000px"}
+# Use include_graphics() to insert the PDF file
+knitr::include_graphics("../media/CV_Morelli.pdf")
+```

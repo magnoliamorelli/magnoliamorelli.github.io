@@ -1,0 +1,18 @@
+---
+output: html_document
+---
+## [About Me](https://magnoliamorelli.github.io) | [Research](https://magnoliamorelli.github.io/Research) | [Curriculum Vitae](https://magnoliamorelli.github.io/Curriculum_Vitae) | [Conferences](https://magnoliamorelli.github.io/Conferences) | [Assignments](https://magnoliamorelli.github.io/Assignments)
+
+<p style="font-family: times; font-size:15pt">
+I am a current biology student at Utah Valley University, set to graduate Fall of 2023. I have received a National Science Foundation S-STEM fellowship that has allowed me to conduct my own research while attending school full-time. My main interests are mycology, ecology, marine sciences, animal/environment interactions, and bioinformatics.I have taken many courses learning different coding techniques such as R, Python, and SQL. I am attending school to broaden my mind, world view, hone my research skills and eventually become a professor at an accredited university. 
+\
+After my time at UVU, I plan to pursue a PhD. I am currently on the search for a great mentor who has a passion to teach. If you enjoy what you see through this page, please email me! You can find my contact information under the "CV" tab.
+\
+Take your time browsing my other tabs and learning more about me, the techniques I've learned, and the research that I do. I have spent many hours working on this website in R studio and I hope you enjoy.
+</p>
+```{r, echo=FALSE, out.width="37%", fig.cap="**A Day in the Life**"}
+knitr::include_graphics("media/P_1.jpg")
+```
+
+
+
