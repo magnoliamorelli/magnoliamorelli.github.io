@@ -1,11 +1,32 @@
 ---
-output: html_document
+output: 
+  html_document:
+    css: ../style.css
 ---
+<header>
+  <nav>
+    <ul>
+      <li><a href="../index.html">Home</a></li>
+      <li><a href="../Curriculum_Vitae/index.html">Curriculum Vitae</a></li>
+      <li><a href="../Research/index.html">Research</a></li>
+      <li><a href="../Conferences/index.html">Conferences</a></li>
+    </ul>
+  </nav>
+</header>
+\
+\
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+# Mushroom Unknown?
+<p style="font-family: times; font-size:15pt">
+During my first trip to MSA my lab and I went on a hike and I came across an interesting mushroom. This mushroom was one my UVU mentor and I had never seen before. This got us thinking, what in the world had we just found? The mushroom looked strange and otherworldly and was purple! We needed to find out more information. Over time we found the mushroom to be Gymnopus iodes, also recently discovered in China. We were only a few months late from discovering a new species!
+\
+This began a path of wonder for me. I began to imagine all of the mushrooms that are not described or had their genome sequenced. This is an astronomical number that I plan to lessen, even if just a few. Gymnopus has already been described but its genome has not yet been sequenced in full. In the last year of my UVU experience I will be working towards this goal. After sequencing I will work with a geneticist to pick out individual proteins to determine unique workings of this species. This process will guide me to learn new skills that I have not yet touched. I will learn new coding, new sequencing techniques, and new protein mechanisms.
+</p>
+\
+```{r, echo=FALSE, out.width="50%", fig.cap="**Gymnopus iodes**"}
+knitr::include_graphics("../media/P_2.jpg")
 ```
-## [About Me](https://magnoliamorelli.github.io) | [Research](https://magnoliamorelli.github.io/Research) | [Curriculum Vitae](https://magnoliamorelli.github.io/Curriculum_Vitae) | [Conferences](https://magnoliamorelli.github.io/Conferences) | [Assignments](https://magnoliamorelli.github.io/Assignments)
+
 
 # The Ungulates
 <p style="font-family: times; font-size:15pt">
@@ -15,18 +36,6 @@ My project has evolved from one species of Howler monkeys to discovering if an e
 \
 I have taken measures to outlaw any fungal spores that have come through other dispersal means such as wind or rain. I have gained skills in plating fungal spores, growing individual colonies, PCR, and sequencing. I have learned the trials of field work, communicated through government agencies to obtain permits, and written every grant that has allowed me to travel to these regions. As my project got delayed, changed paths, and became increasingly difficult through COVID, I have continued to pursue my passion and battle every obstacle that has come my way.
 </p>
-
-# Mushroom Unknown?
-<p style="font-family: times; font-size:15pt">
-As I was trekking through the Ozark Mountains looking for Elk dung, I came across an interesting mushroom. This mushroom was one my UVU mentor and I had never seen before. This got us thinking, what in the world had we just found? The mushroom looked strange and otherworldly. We needed to find out more information. Over the night my mentor scoured the internet and mycology books and found the mushroom to be Strobilomyces, Old Man of the Woods.
-\
-This began a path of wonder for me. I began to imagine all of the mushrooms that are not described or had their genome sequenced. This is an astronomical number that I plan to lessen, even if just a few. Strobilomyces has already been described but its genome has not yet been sequenced in full. In the last year of my UVU experience I will be working towards this goal. After sequencing I will work with a geneticist to pick out individual proteins to determine unique workings of the Old Man of the Woods. This process will guide me to learn new skills that I have not yet touched. I will learn new coding, new sequencing techniques, and new protein mechanisms.
-</p>
-\
-\
-```{r, echo=FALSE, out.width="30%", fig.cap="**Strobilomyces**"}
-knitr::include_graphics("../media/P_2.jpg")
-```
 ```{r, echo=FALSE, out.width="50%", fig.cap="**Field Work**"}
 knitr::include_graphics("../media/P_3.jpg")
 ```
